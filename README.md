@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/nicholas-murphy-1167b226b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://wellfound.com/u/nicholas-murphy-9">
+  <a href="https://wellfound.com/u/nicholas-murphy-9">
     <img src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
