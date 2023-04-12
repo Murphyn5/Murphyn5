@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Seattle who is also passionate about the outdoors.
+I am a Full Stack Developer from Seattle who is also passionate about the outdoors.
 
 I think my projects are pretty cool, check them out:
 <div>
