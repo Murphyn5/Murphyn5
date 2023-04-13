@@ -28,13 +28,13 @@ If you're interested in connecting or learning more about my experience, please 
 <br>
 <br>
 
-## Currently working on 🌱
+<!-- ## Currently working on 🌱
 - Personal side project, Blockbase, to learn more about: 
    - Coingecko API to pull cryptocurrency data
    - Recharts for charting cryptocurrency historical prices
    - Alchemy API to utilize NFT data
    - Wallet Connect to read user's wallet information
-- Data Structures and Algorithms
+- Data Structures and Algorithms -->
 
 <hr>
 
@@ -60,6 +60,7 @@ If you're interested in connecting or learning more about my experience, please 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 ![Google Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Maps&color=4285F4&logo=Google+Maps&logoColor=FFFFFF&label=)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)](https://leafletjs.com/)
 
 <br>
 
