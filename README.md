@@ -76,6 +76,6 @@ I think my projects are pretty cool, check them out:
 
 <p align="left">
 <img alt="Nick's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=murphyn5&theme=dark&show_icons=true&hide_border=false" />
+       src="https://github-readme-stats.vercel.app/api?username=Murphyn5&theme=dark&show_icons=true&hide_border=false" />
 </p>
 
