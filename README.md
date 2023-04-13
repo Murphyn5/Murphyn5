@@ -1,15 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/nicholas-murphy-1167b226b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://wellfound.com/u/nicholas-murphy-9">
-    <img src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
-  </a>
-  <a href="mailto:nlimurphy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 ## Welcome! 👋 
 
 Hey there, I'm Nick Murphy, a recent graduate of App Academy with a passion for technology and education. Prior to my transition into the tech industry, I worked as a high school math teacher for 2 and a half years, where I honed my skills in communication, problem-solving, and critical thinking.
@@ -20,20 +8,20 @@ Aside from my technical expertise, I am a team player who is dedicated to collab
 
 If you're interested in connecting or learning more about my experience, please feel free to reach out!
 
-<a href="mailto:hamiltontruong@gmail.com" target="_blank">
+<a href="mailto:nlimurphy@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/hamiltontruong/" target="_blank">
+<a href="https://linkedin.com/in/nicholas-murphy-1167b226b" target="_blank">
    <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wellfound.com/u/hamilton-truong" target="_blank">
+<a href="https://wellfound.com/u/nicholas-murphy-9" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
 
 
-<a href="https://truham.github.io/" target="_blank">
+<a href="https://murphyn5.github.io/" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Portfolio-lightgrey.svg?style=for-the-badge" />
 </a>
 
