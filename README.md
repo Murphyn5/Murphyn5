@@ -10,37 +10,94 @@
   </a>
 </div>
 
-<div id="view-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
+## Welcome! 👋 
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Hey there, I'm Nick Murphy, a recent graduate of App Academy with a passion for technology and education. Prior to my transition into the tech industry, I worked as a high school math teacher for 2 and a half years, where I honed my skills in communication, problem-solving, and critical thinking.
 
-### :man_technologist: About Me :
+During my time at App Academy, I gained valuable experience in software development, including full-stack web development using JavaScript, React, Redux, Python, SQL, Express, and Flask. I am excited to apply my skills and knowledge to a new role in the tech industry, where I can continue to learn, grow, and make a positive impact.
 
-I am a Full Stack Developer from Seattle who is also passionate about the outdoors.
+Aside from my technical expertise, I am a team player who is dedicated to collaboration and effective communication. I thrive in fast-paced environments and am always seeking out new challenges and opportunities to learn.
 
-I think my projects are pretty cool, check them out:
-<div>
-▶️ <a href="https://github.com/Murphyn5/FootTracks">FootTracks 🦶</a>
-</div>
-<div>
-▶️ <a href="https://github.com/truham/Plate-Pal">Plate-Pal 🍽️</a>
-</div>
-<div>
-▶️ <a href="https://github.com/Murphyn5/Bnb-Ria">Bnb-Ria 🏡</a>
-</div>
+If you're interested in connecting or learning more about my experience, please feel free to reach out!
 
-<h2 dir="auto"><a id="user-content--skills" class="anchor" aria-hidden="true" href="#-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Skills</h2>
-<div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ed9d2404ae620a67a99495ae165ca9a5f5b61b87d79ecaeb1f2cab1cff05112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1ed9d2404ae620a67a99495ae165ca9a5f5b61b87d79ecaeb1f2cab1cff05112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="React.js" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f21dedfaad14955d2416cdf928e87c3019d32c9fc91dc7b5d8c262ffd2629386/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f21dedfaad14955d2416cdf928e87c3019d32c9fc91dc7b5d8c262ffd2629386/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="Redux" data-canonical-src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa5ed8db52bc9f49bfa0f76eb513fef4460a3d1a494b53a7397af8fcdc87d391/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/aa5ed8db52bc9f49bfa0f76eb513fef4460a3d1a494b53a7397af8fcdc87d391/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express" data-canonical-src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" alt="Flask" data-canonical-src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d8f400e17c6a74e8bb34d050085c602e6a67c2ffb2ab47de05bceed59e4f61cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d8f400e17c6a74e8bb34d050085c602e6a67c2ffb2ab47de05bceed59e4f61cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465" alt="Sequelize" data-canonical-src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/571bbec946a768e5d6dccf45d583717d3d6f5a7131e36aefc319214634539851/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/571bbec946a768e5d6dccf45d583717d3d6f5a7131e36aefc319214634539851/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c266c6f676f436f6c6f723d7768697465" alt="SQL" data-canonical-src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=sql&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/488beec40a140a80b134fc4ec2f86d18c10449c17d2ae102b5da873881bf9a0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/488beec40a140a80b134fc4ec2f86d18c10449c17d2ae102b5da873881bf9a0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</div>
+<a href="mailto:hamiltontruong@gmail.com" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murphyn5&theme=dark&background=000000)](https://git.io/streak-stats)
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
+<a href="https://www.linkedin.com/in/hamiltontruong/" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://wellfound.com/u/hamilton-truong" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
+
+
+<a href="https://truham.github.io/" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Portfolio-lightgrey.svg?style=for-the-badge" />
+</a>
+
+<br>
+<br>
+
+## Currently working on 🌱
+- Personal side project, Blockbase, to learn more about: 
+   - Coingecko API to pull cryptocurrency data
+   - Recharts for charting cryptocurrency historical prices
+   - Alchemy API to utilize NFT data
+   - Wallet Connect to read user's wallet information
+- Data Structures and Algorithms
+
+<hr>
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-4081B3?style=for-the-badge&logo=python&logoColor=ffe66a)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Libraries & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases & ORMs
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+### Other
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Google Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Maps&color=4285F4&logo=Google+Maps&logoColor=FFFFFF&label=)
+
+<br>
+
+<p align="left">
+<img alt="Hamilton's GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=truham&theme=dark&show_icons=true&hide_border=false" />
+</p>
+
+<!-- 
+<p align="center">
+   <img alt="Hamilton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truham&theme=dark&layout=compact" />
+</p> -->
+   
+<hr>
+
+<!--
+**truham/truham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
