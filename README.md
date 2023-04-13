@@ -35,6 +35,16 @@ If you're interested in connecting or learning more about my experience, please 
    - Alchemy API to utilize NFT data
    - Wallet Connect to read user's wallet information
 - Data Structures and Algorithms -->
+I think my projects are pretty cool, check them out:
+<div>
+▶️ <a href="https://github.com/Murphyn5/FootTracks">FootTracks 🦶</a>
+</div>
+<div>
+▶️ <a href="https://github.com/truham/Plate-Pal">Plate-Pal 🍽️</a>
+</div>
+<div>
+▶️ <a href="https://github.com/Murphyn5/Bnb-Ria">Bnb-Ria 🏡</a>
+</div>
 
 <hr>
 
