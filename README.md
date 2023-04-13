@@ -77,6 +77,8 @@ I think my projects are pretty cool, check them out:
 <p align="left">
 <img alt="Nick's GitHub Stats" 
        src="https://github-readme-stats.vercel.app/api?username=Murphyn5&theme=dark&show_icons=true&hide_border=false" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
+
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
 
