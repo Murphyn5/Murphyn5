@@ -75,28 +75,7 @@ I think my projects are pretty cool, check them out:
 <br>
 
 <p align="left">
-<img alt="Hamilton's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=truham&theme=dark&show_icons=true&hide_border=false" />
+<img alt="Nick's GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=murphyn5&theme=dark&show_icons=true&hide_border=false" />
 </p>
 
-<!-- 
-<p align="center">
-   <img alt="Hamilton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truham&theme=dark&layout=compact" />
-</p> -->
-   
-<hr>
-
-<!--
-**truham/truham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
