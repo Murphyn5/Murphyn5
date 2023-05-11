@@ -12,7 +12,7 @@ If you're interested in connecting or learning more about my experience, please 
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/nicholas-murphy-1167b226b" target="_blank">
+<a href="https://linkedin.com/in/nicholas-murphy-dev" target="_blank">
    <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
