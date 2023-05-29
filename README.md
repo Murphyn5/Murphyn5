@@ -80,5 +80,6 @@ I think my projects are pretty cool, check them out:
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
+
 
