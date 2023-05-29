@@ -80,6 +80,6 @@ I think my projects are pretty cool, check them out:
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=Murphyn5&layout=compact&theme=vision-friendly-dark)](https://github.com/Murphyn5/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 
