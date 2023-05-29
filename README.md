@@ -76,7 +76,7 @@ I think my projects are pretty cool, check them out:
 
 <p align="left">
 <img alt="Nick's GitHub Stats" 
-       src="https://github-readme-stats-ruby-one.vercel.app/api?username=Murphyn5&theme=dark&show_icons=true&hide_border=false" />
+       src="https://readmestats.999857.xyz/api?username=Murphyn5&theme=dark&show_icons=true&hide_border=false" />
 
 </p>
 
