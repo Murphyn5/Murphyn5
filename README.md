@@ -40,7 +40,7 @@ I think my projects are pretty cool, check them out:
 ▶️ <a href="https://github.com/Murphyn5/FootTracks">FootTracks 🦶</a>
 </div>
 <div>
-▶️ <a href="https://github.com/truham/Plate-Pal">Plate-Pal 🍽️</a>
+▶️ <a href="https://github.com/Murphyn5/Plate-Pal">Plate-Pal 🍽️</a>
 </div>
 <div>
 ▶️ <a href="https://github.com/Murphyn5/Bnb-Ria">Bnb-Ria 🏡</a>
